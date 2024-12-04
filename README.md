@@ -26,7 +26,7 @@ O resultado é retornado ao frontend e exibido na página.
 Primeiro, clone este repositório para a sua máquina local:
 
 ```bash
-git clone <URL do repositório>
+git clone https://github.com/IcaroSenaDev/imc-calculator.git
 cd imc-calculator
 ```
 
